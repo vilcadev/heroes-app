@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
@@ -166,24 +166,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "7lfOTFi",
-      "superhero": "Cesar",
-      "publisher": "Marvel Comics",
-      "alter_ego": "Touch Me ",
-      "first_appearance": "Comic Udemy 2023",
-      "characters": "Cesar Vilca ",
-      "alt_img": "https://w0.peakpx.com/wallpaper/358/417/HD-wallpaper-kiyotaka-ayanokouji-anime-classroom-classroom-of-the-elite-elite-of-otaku-the.jpg"
-    },
-    {
-      "id": "PDh1Nry",
-      "superhero": "Bochi",
-      "publisher": "Marvel Comics",
-      "alter_ego": "GuitarHero",
-      "first_appearance": "First Cap ",
-      "characters": "Bochi",
-      "alt_img": "https://cdn.myanimelist.net/images/anime/1448/127956l.jpg"
     }
   ]
 }
